@@ -1,0 +1,45 @@
+body {
+    background-size: cover;
+}
+
+.heading {
+    font-size: x-large;
+    width: 100%;
+    margin: 0px;
+    background-color: rgb(175, 18, 18);
+    color: white;
+}
+
+#start {
+    font-size: x-large;
+}
+
+#number_of_objects,
+#status {
+    font-size: larger;
+}
+
+.copyright_footer {
+    background-color: rgb(141, 84, 233);
+    color: white;
+    width: 100%;
+    position: fixed;
+    line-height: 3;
+    bottom: 0;
+    text-align: center;
+}
+
+canvas {
+    border: 2px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px coral;
+    margin-top: 130px;
+}
+
+#object_name {
+    color: white;
+}
+
+#text_input {
+    width: 25%;
+}
